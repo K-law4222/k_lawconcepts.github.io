@@ -8,7 +8,6 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .2s linear;
-    overflow: hidden;
 }
 .heading{
     text-align: center;
